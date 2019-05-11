@@ -1,14 +1,14 @@
 {
-	"name": "@faustbrian/common-logger-test-suite",
+	"name": "@logks/test-suite",
 	"version": "0.1.0",
-	"description": "Test suite for common-logger API compliance.",
-	"homepage": "https://github.com/faustbrian/common-logger-test-suite",
+	"description": "Test suite for Logks API compliance.",
+	"homepage": "https://github.com/logks/test-suite",
 	"bugs": {
-		"url": "https://github.com/faustbrian/common-logger-test-suite/issues"
+		"url": "https://github.com/logks/test-suite/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:faustbrian/common-logger-test-suite.git"
+		"url": "git@github.com:logks/test-suite.git"
 	},
 	"license": "MIT",
 	"author": "Brian Faust <hello@basecode.sh>",
@@ -64,7 +64,7 @@
 		"verbose": true
 	},
 	"dependencies": {
-		"@faustbrian/common-logger": "^0.1.0"
+		"@logks/logks": "^0.1.0"
 	},
 	"devDependencies": {
 		"@sindresorhus/tsconfig": "^0.3.0",

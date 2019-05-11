@@ -1,4 +1,4 @@
-import { ILogger } from "@faustbrian/common-logger";
+import { ILogger } from "@logks/logks";
 import { complianceTests } from "../src";
 
 export class Logger implements ILogger {

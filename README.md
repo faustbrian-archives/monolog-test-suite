@@ -1,17 +1,17 @@
-# common-logger-test-suite
+# @logks/test-suite
 
 > Test suite for common-logger API compliance.
 
-[![Latest Version](https://badgen.now.sh/npm/v/@faustbrian/common-logger-test-suite)](https://www.npmjs.com/package/@faustbrian/common-logger-test-suite)
-[![Node Engine](https://badgen.now.sh/npm/node/@faustbrian/common-logger-test-suite)](https://www.npmjs.com/package/@faustbrian/common-logger-test-suite)
-[![Build Status](https://badgen.now.sh/circleci/github/faustbrian/common-logger-test-suite)](https://circleci.com/gh/faustbrian/common-logger-test-suite)
-[![Codecov](https://badgen.now.sh/codecov/c/github/faustbrian/common-logger-test-suite)](https://codecov.io/gh/faustbrian/common-logger-test-suite)
+[![Latest Version](https://badgen.now.sh/npm/v/@logks/test-suite)](https://www.npmjs.com/package/@logks/test-suite)
+[![Node Engine](https://badgen.now.sh/npm/node/@logks/test-suite)](https://www.npmjs.com/package/@logks/test-suite)
+[![Build Status](https://badgen.now.sh/circleci/github/logks/test-suite)](https://circleci.com/gh/logks/test-suite)
+[![Codecov](https://badgen.now.sh/codecov/c/github/logks/test-suite)](https://codecov.io/gh/logks/test-suite)
 [![License: MIT](https://badgen.now.sh/badge/license/MIT/green)](https://opensource.org/licenses/MIT)
 
 ## Installation
 
 ```bash
-yarn add @faustbrian/common-logger-test-suite
+yarn add @logks/test-suite
 ```
 
 ## Testing

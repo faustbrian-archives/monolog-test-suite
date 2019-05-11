@@ -139,11 +139,6 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@faustbrian/common-logger@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@faustbrian/common-logger/-/common-logger-0.1.0.tgz#be8216c93b862a7609ec2538f7bf7eb90ccd2599"
-  integrity sha512-EGUKfom1tiQr+i1Xh5gvbJvBTlj00Z8K9Aje4NTbXwpIOycK7AtI/vveDPANI64nrkf+PkyvHbRo3NIJZQjsxw==
-
 "@jest/console@^24.7.1":
   version "24.7.1"
   resolved "https://registry.yarnpkg.com/@jest/console/-/console-24.7.1.tgz#32a9e42535a97aedfe037e725bd67e954b459545"
@@ -287,6 +282,11 @@
   dependencies:
     "@types/istanbul-lib-coverage" "^2.0.0"
     "@types/yargs" "^12.0.9"
+
+"@logks/logks@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@logks/logks/-/logks-0.1.0.tgz#f9603fdb9454936c9d3d0e213c6973d5541f44cd"
+  integrity sha512-3r6dyjwt8KPMDeKLpLNt16F6n3Ufhkz86wHlqm6a9NY1mrYApz6yv8+zZk58MUEqXOWqW4hj86Yr3Vr04viyfw==
 
 "@sindresorhus/tsconfig@^0.3.0":
   version "0.3.0"

@@ -1,4 +1,4 @@
-import { ILogger } from "@faustbrian/common-logger";
+import { ILogger } from "@logks/logks";
 
 export const complianceTests = (logger: ILogger) => {
 	test.each(["emergency", "alert", "critical", "error", "warning", "notice", "info", "debug"])(
